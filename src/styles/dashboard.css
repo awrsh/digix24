@@ -1,0 +1,29 @@
+.helper-fontsize{
+  font-size: small;
+}
+.helper-btn{
+  border-radius: 25px;
+}
+
+.info-content{
+padding-top: 45px;
+padding-bottom: 30px;
+}
+.content-dashboard{
+  padding-top:32px;
+  padding-bottom:20px;
+  padding-left:32px;
+  padding-right:32px;
+}
+
+.info-list{
+  margin-top: 24px;
+  font-family: 'IRANYekanWebFn';
+  font-size: 14px;
+  font-weight: 300;
+  align-items: center;
+}
+
+.form-buttons{
+  margin-bottom: 55px;
+}
